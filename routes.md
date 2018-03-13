@@ -7,3 +7,7 @@
 - [Hello work](#helloworld.md)
 - [Third Post With azeroth-js!](#third-post.md)
 - [Markdown Test Pag](#lorem-ipsum.md)
+- [Hello work](#helloworld.md)
+- [Markdown Test Pag](#lorem-ipsum.md)
+- [Điều gì làm nên một dân tộc mạnh mẽ](#suc-manh-cua-mot-dan-toc.md)
+- [Third Post With azeroth-js!](#third-post.md)
