@@ -1,3 +1,4 @@
+"use strict"
 var fs = require('fs'),
   marked = require('./js/marked.js');
 
