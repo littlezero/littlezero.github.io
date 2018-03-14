@@ -11,3 +11,7 @@
 - [Markdown Test Pag](#lorem-ipsum.md)
 - [Điều gì làm nên một dân tộc mạnh mẽ](#suc-manh-cua-mot-dan-toc.md)
 - [Third Post With azeroth-js!](#third-post.md)
+- [Hello work](#helloworld.md)
+- [Markdown Test Pag](#lorem-ipsum.md)
+- [Third Post With azeroth-js!](#third-post.md)
+- [Điều gì làm nên một dân tộc mạnh mẽ](#suc-manh-cua-mot-dan-toc.md)
